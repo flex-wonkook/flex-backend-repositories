@@ -1,0 +1,172 @@
+[submodule "flex-accounting-meta-backend"]
+	path = flex-accounting-meta-backend
+	url = https://github.com/flex-team/flex-accounting-meta-backend.git
+	ignore = dirty
+[submodule "flex-ai-backend"]
+	path = flex-ai-backend
+	url = https://github.com/flex-team/flex-ai-backend.git
+	ignore = dirty
+[submodule "flex-approval-backend"]
+	path = flex-approval-backend
+	url = https://github.com/flex-team/flex-approval-backend.git
+	ignore = dirty
+[submodule "flex-audit-backend"]
+	path = flex-audit-backend
+	url = https://github.com/flex-team/flex-audit-backend.git
+	ignore = dirty
+[submodule "flex-backend-gateway"]
+	path = flex-backend-gateway
+	url = https://github.com/flex-team/flex-backend-gateway.git
+	ignore = dirty
+[submodule "flex-billing-backend"]
+	path = flex-billing-backend
+	url = https://github.com/flex-team/flex-billing-backend.git
+	ignore = dirty
+[submodule "flex-calendar-backend"]
+	path = flex-calendar-backend
+	url = https://github.com/flex-team/flex-calendar-backend.git
+	ignore = dirty
+[submodule "flex-cert-backend"]
+	path = flex-cert-backend
+	url = https://github.com/flex-team/flex-cert-backend.git
+	ignore = dirty
+[submodule "flex-core-backend"]
+	path = flex-core-backend
+	url = https://github.com/flex-team/flex-core-backend.git
+	ignore = dirty
+[submodule "flex-customer-station-backend"]
+	path = flex-customer-station-backend
+	url = https://github.com/flex-team/flex-customer-station-backend.git
+	ignore = dirty
+[submodule "flex-data-tracker-backend"]
+	path = flex-data-tracker-backend
+	url = https://github.com/flex-team/flex-data-tracker-backend.git
+	ignore = dirty
+[submodule "flex-digicon-backend"]
+	path = flex-digicon-backend
+	url = https://github.com/flex-team/flex-digicon-backend.git
+	ignore = dirty
+[submodule "flex-file-storage-backend"]
+	path = flex-file-storage-backend
+	url = https://github.com/flex-team/flex-file-storage-backend.git
+	ignore = dirty
+[submodule "flex-fins-backend"]
+	path = flex-fins-backend
+	url = https://github.com/flex-team/flex-fins-backend.git
+	ignore = dirty
+[submodule "flex-flow-backend"]
+	path = flex-flow-backend
+	url = https://github.com/flex-team/flex-flow-backend.git
+	ignore = dirty
+[submodule "flex-goal-backend"]
+	path = flex-goal-backend
+	url = https://github.com/flex-team/flex-goal-backend.git
+	ignore = dirty
+[submodule "flex-growth-backend"]
+	path = flex-growth-backend
+	url = https://github.com/flex-team/flex-growth-backend.git
+	ignore = dirty
+[submodule "flex-impact-backend"]
+	path = flex-impact-backend
+	url = https://github.com/flex-team/flex-impact-backend.git
+	ignore = dirty
+[submodule "flex-insight-backend"]
+	path = flex-insight-backend
+	url = https://github.com/flex-team/flex-insight-backend.git
+	ignore = dirty
+[submodule "flex-knowledge-backend"]
+	path = flex-knowledge-backend
+	url = https://github.com/flex-team/flex-knowledge-backend.git
+	ignore = dirty
+[submodule "flex-marvel-backend"]
+	path = flex-marvel-backend
+	url = https://github.com/flex-team/flex-marvel-backend.git
+	ignore = dirty
+[submodule "flex-marvel-clockwork-backend"]
+	path = flex-marvel-clockwork-backend
+	url = https://github.com/flex-team/flex-marvel-clockwork-backend.git
+	ignore = dirty
+[submodule "flex-openapi-backend"]
+	path = flex-openapi-backend
+	url = https://github.com/flex-team/flex-openapi-backend.git
+	ignore = dirty
+[submodule "flex-pavement-backend"]
+	path = flex-pavement-backend
+	url = https://github.com/flex-team/flex-pavement-backend.git
+	ignore = dirty
+[submodule "flex-payment-backend"]
+	path = flex-payment-backend
+	url = https://github.com/flex-team/flex-payment-backend.git
+	ignore = dirty
+[submodule "flex-payroll-backend"]
+	path = flex-payroll-backend
+	url = https://github.com/flex-team/flex-payroll-backend.git
+	ignore = dirty
+[submodule "flex-permission-backend"]
+	path = flex-permission-backend
+	url = https://github.com/flex-team/flex-permission-backend.git
+	ignore = dirty
+[submodule "flex-pop-backend"]
+	path = flex-pop-backend
+	url = https://github.com/flex-team/flex-pop-backend.git
+	ignore = dirty
+[submodule "flex-recruiting-backend"]
+	path = flex-recruiting-backend
+	url = https://github.com/flex-team/flex-recruiting-backend.git
+	ignore = dirty
+[submodule "flex-renderer-node-backend"]
+	path = flex-renderer-node-backend
+	url = https://github.com/flex-team/flex-renderer-node-backend.git
+	ignore = dirty
+[submodule "flex-review-backend"]
+	path = flex-review-backend
+	url = https://github.com/flex-team/flex-review-backend.git
+	ignore = dirty
+[submodule "flex-selfservice-backend"]
+	path = flex-selfservice-backend
+	url = https://github.com/flex-team/flex-selfservice-backend.git
+	ignore = dirty
+[submodule "flex-timetracking-backend"]
+	path = flex-timetracking-backend
+	url = https://github.com/flex-team/flex-timetracking-backend.git
+	ignore = dirty
+[submodule "flex-user-group-backend"]
+	path = flex-user-group-backend
+	url = https://github.com/flex-team/flex-user-group-backend.git
+	ignore = dirty
+[submodule "flex-v2-backend-commons"]
+	path = flex-v2-backend-commons
+	url = https://github.com/flex-team/flex-v2-backend-commons.git
+	ignore = dirty
+[submodule "flex-web-automation-backend"]
+	path = flex-web-automation-backend
+	url = https://github.com/flex-team/flex-web-automation-backend.git
+	ignore = dirty
+[submodule "flex-work-event-transmitter-backend"]
+	path = flex-work-event-transmitter-backend
+	url = https://github.com/flex-team/flex-work-event-transmitter-backend.git
+	ignore = dirty
+[submodule "flex-workflow-engine-backend"]
+	path = flex-workflow-engine-backend
+	url = https://github.com/flex-team/flex-workflow-engine-backend.git
+	ignore = dirty
+[submodule "flex-yearend-backend"]
+	path = flex-yearend-backend
+	url = https://github.com/flex-team/flex-yearend-backend.git
+	ignore = dirty
+[submodule "flex-yjs-websocket-backend"]
+	path = flex-yjs-websocket-backend
+	url = https://github.com/flex-team/flex-yjs-websocket-backend.git
+	ignore = dirty
+[submodule "leaf-backend"]
+	path = leaf-backend
+	url = https://github.com/flex-team/leaf-backend.git
+	ignore = dirty
+[submodule "leaf-backend-gateway"]
+	path = leaf-backend-gateway
+	url = https://github.com/flex-team/leaf-backend-gateway.git
+	ignore = dirty
+[submodule "personal-account-backend"]
+	path = personal-account-backend
+	url = https://github.com/flex-team/personal-account-backend.git
+	ignore = dirty
