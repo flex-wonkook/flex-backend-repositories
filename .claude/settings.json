@@ -10,6 +10,7 @@
       "Bash(tail:*)",
       "Bash(wc:*)",
       "Bash(tree:*)",
+      "Bash(./gradlew:*)",
       "Bash(git log:*)",
       "Bash(git show:*)",
       "Bash(git grep:*)",
@@ -18,8 +19,24 @@
       "Bash(git blame:*)",
       "Bash(git ls-files:*)",
       "Bash(git ls-tree:*)",
+      "Bash(git fetch:*)",
+      "Bash(git checkout:*)",
+      "Bash(git switch:*)",
+      "Bash(git branch:*)",
+      "Bash(git pull --ff-only:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git rebase:*)",
+      "Bash(git stash:*)",
+      "Bash(git worktree:*)",
       "Bash(git submodule status:*)",
-      "Bash(git submodule update --init:*)"
+      "Bash(git submodule update:*)",
+      "Bash(bin/pull-all.sh:*)",
+      "Bash(bin/refresh-pins.sh:*)",
+      "Bash(gh pr:*)",
+      "Bash(gh repo view:*)",
+      "Bash(gh api:*)"
     ]
   }
 }
